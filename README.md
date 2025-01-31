@@ -1,0 +1,1 @@
+ESPHome gets used in many places with esp32s that have BLE. Used as sensors,voice assistant and many more. I like the triangulation of of the ESPresense companion, but don't want to waste a whole esp for the base station. So I ported it as a esphome component.
